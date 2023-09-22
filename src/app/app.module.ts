@@ -13,7 +13,7 @@ import { HeroesModule } from './heroes/heroes.module';
   ],
   imports: [
     BrowserModule,
-    CounterModule,
+    CounterModule,//se importo los modulos, por cada funcionalidad
     HeroesModule
   ],
   providers: [],
